@@ -1,0 +1,65 @@
+p{font-family:"Times New Roman";
+  font-style:italic;
+  font-size:20px;
+  color:black;}
+h2 { align:left;
+    text-decoration:underline;
+	color:black;
+	font-size:italic;
+	font-size:30px;
+	font-family:"Modern No. 20";
+	
+}
+h1 {  background-color:gray;
+     align:left;
+	 font-family:"Engravers MT";
+	 color:white;
+	 border:6px solid black;
+	 }
+h3 {
+	font-style:italic;
+	font-size: 15px;
+	color :white;}
+h4{
+	font-style:italic;
+	font-size: 15px;
+	color:black;
+}
+
+
+.table, th, td {
+	
+   border: 4px solid gray;
+   text-align:center;
+}
+.listecaracteristici
+{
+	 margin-left:350px;
+	 margin-right:350px;
+
+}
+.imagine{
+	border-radius:15%;
+	height: 230px;
+	width: 400px;
+	opacity:0.7;
+	filter:alpha(opacity=90);
+	}
+.titlu {
+	color:black;
+	text-align: left;
+	text-decoration: underline;	
+}
+div {
+	align: right;
+	padding:56px;
+	border:5px solid;
+	margin:40px;
+    border-color:black;
+    background-color:gray;
+
+}
+body
+{
+	background-color:MediumSeaGreen;
+}
