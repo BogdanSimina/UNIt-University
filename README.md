@@ -1,0 +1,2 @@
+-miniproiect pentru faculatate
+-materie: informatica aplicata
